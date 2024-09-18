@@ -31,6 +31,8 @@ _University of California, San Diego | Jacobs School of Engineering_
 - Assisted with processing company checks and invoices.
 - Cultivated positive relationships with colleagues to enhance productivity.
 
+---
+
 ## Course Work/Projects
 
 ### [CSE8A: Introduction to Programming and Computational Problem-Solving I](https://github.com/sierraaa19/CSE8A.git)
