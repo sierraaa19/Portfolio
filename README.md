@@ -36,6 +36,10 @@ _University of California, San Diego | Jacobs School of Engineering_
 ### [CSE8A: Introduction to Programming and Computational Problem-Solving I](https://github.com/sierraaa19/CSE8A.git)
 Introductory course for students interested in computer science and programming. Basics of programming including variables, conditionals, loops, functions/methods. Structured data storage such as arrays/lists and dictionaries, including data mutation. Hands-on experience with designing, writing, hand-tracing, compiling or interpreting, executing, testing, and debugging programs. Students solve relevant computational problems using a high-level programming language.
 
+### [CSE130: Programming Languages- Principles and Paradigms](https://github.com/sierraaa19/CSE130.git)
+Introduction to programming languages and paradigms, the components that comprise them, and the principles of language design, all through the analysis and comparison of a variety of languages (e.g. Pascal, Ada, C++, PROLOG, ML). Will involve programming in most languages studied.
+
+### [Teaching Portfolio](https://sites.google.com/ucsd.edu/alyssasportfolio/home)
 ---
 
 ## Leadership Experience
@@ -65,9 +69,3 @@ Introductory course for students interested in computer science and programming.
 
 **Interests:**  
 - Sports, Baseball Analytics, Social Media, Music, Marketing & Management, Teaching, Computing
-
----
-
-## Portfolio
-
-- [Teaching Portfolio](https://sites.google.com/ucsd.edu/alyssasportfolio/home)
