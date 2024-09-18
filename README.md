@@ -31,6 +31,11 @@ _University of California, San Diego | Jacobs School of Engineering_
 - Assisted with processing company checks and invoices.
 - Cultivated positive relationships with colleagues to enhance productivity.
 
+## Course Work/Projects
+
+### [CSE8A: Introduction to Programming and Computational Problem-Solving I](https://github.com/sierraaa19/CSE8A.git)
+Introductory course for students interested in computer science and programming. Basics of programming including variables, conditionals, loops, functions/methods. Structured data storage such as arrays/lists and dictionaries, including data mutation. Hands-on experience with designing, writing, hand-tracing, compiling or interpreting, executing, testing, and debugging programs. Students solve relevant computational problems using a high-level programming language.
+
 ---
 
 ## Leadership Experience
