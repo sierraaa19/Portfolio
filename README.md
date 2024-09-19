@@ -41,6 +41,9 @@ Introductory course for students interested in computer science and programming.
 ### [CSE130: Programming Languages- Principles and Paradigms](https://github.com/sierraaa19/CSE130.git)
 Introduction to programming languages and paradigms, the components that comprise them, and the principles of language design, all through the analysis and comparison of a variety of languages (e.g. Pascal, Ada, C++, PROLOG, ML). Will involve programming in most languages studied.
 
+### [CSE167: Computer Graphics](https://github.com/sierraaa19/CSE167.git)
+Representation and manipulation of pictorial data. Two-dimensional and three-dimensional transformations, curves, surfaces. Projection, illumination, and shading models. Raster and vector graphic I/O devices; retained-mode and immediate-mode graphics software systems and applications.
+
 ### [Teaching Portfolio](https://sites.google.com/ucsd.edu/alyssasportfolio/home)
 ---
 
