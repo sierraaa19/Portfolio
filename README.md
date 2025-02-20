@@ -2,7 +2,6 @@
 
 **Email:** [sierraalyssa19@yahoo.com](mailto:sierraalyssa19@yahoo.com) | **Phone:** 818-939-1310 | **Location:** Granada Hills, CA
 
----
 
 ## Education
 
