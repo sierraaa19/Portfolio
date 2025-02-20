@@ -47,6 +47,8 @@ Introduction to programming languages and paradigms, the components that compris
 Representation and manipulation of pictorial data. Two-dimensional and three-dimensional transformations, curves, surfaces. Projection, illumination, and shading models. Raster and vector graphic I/O devices; retained-mode and immediate-mode graphics software systems and applications.
 
 ### [Teaching Portfolio](https://sites.google.com/ucsd.edu/alyssasportfolio/home)
+
+### [LinkedIn](www.linkedin.com/in/alyssasierra19)
 ---
 
 ## Leadership Experience
