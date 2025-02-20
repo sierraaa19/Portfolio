@@ -48,7 +48,6 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 
 ### [Teaching Portfolio](https://sites.google.com/ucsd.edu/alyssasportfolio/home)
 
-### [LinkedIn](www.linkedin.com/in/alyssasierra19)
 ---
 
 ## Leadership Experience
