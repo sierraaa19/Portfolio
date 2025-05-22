@@ -56,16 +56,16 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 **Technical Skills:**  
 - Languages: Python, Java, C++, C, Haskell, ARM Assembly, SystemVerilog, SQL
 - Tools & Technologies: Git, VS Code, Unix/Linux, GDB, Blender, Adobe Suite, Microsoft Office, Bash, Makefiles
-- Concepts & Frameworks:
- - Programming- Object-Oriented Design, Functional Programming, Recursion, Memory Management
- - Systems- Operating Systems, CPU Architecture, Virtual Memory, File Systems
- - Theory- Discrete Math, Graph Theory, Algorithm Design, NP-Completeness
- - AI & Data- Probabilistic Models, Markov Decision Processes, Database Design, SQL Queries
- - Cybersecurity- Block/Public-Key Cryptography, Authentication
- - Digital Logic- FSM Design, Boolean Algebra, Pipelining, State Machines, Assembly
- - Education- Teaching Computational Thinking, K–12 CS Pedagogy, Equity in STEM
- - Business, Product & Strategy- Product Lifecycle, Market Segmentation, Agile Project Management
- - Data Science- Data Cleaning, Visualization (Matplotlib, Seaborn), Statistical Inference, Model Evaluation
+- Concepts & Frameworks:  
+  - Programming: Object-Oriented Design, Functional Programming, Recursion, Memory Management  
+  - Systems: Operating Systems, CPU Architecture, Virtual Memory, File Systems  
+  - Theory: Discrete Math, Graph Theory, Algorithm Design, NP-Completeness  
+  - AI & Data: Probabilistic Models, Markov Decision Processes, Database Design, SQL Queries  
+  - Cybersecurity: Block/Public-Key Cryptography, Authentication  
+  - Digital Logic: FSM Design, Boolean Algebra, Pipelining, State Machines, Assembly  
+  - Education: Teaching Computational Thinking, K–12 CS Pedagogy, Equity in STEM  
+  - Business, Product & Strategy: Product Lifecycle, Market Segmentation, Agile Project Management  
+  - Data Science: Data Cleaning, Visualization (Matplotlib, Seaborn), Statistical Inference, Model Evaluation
 
 **Languages:**  
 - English (Native), Spanish (Proficient)
