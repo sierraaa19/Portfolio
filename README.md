@@ -7,7 +7,7 @@
 
 **Bachelor of Science in Computer Science**  
 _University of California, San Diego | Jacobs School of Engineering_  
-**Graduation:** December 2024
+**Graduation:** March 2024
 
 - **Awards/Honors:** Provost Honors
 - **Relevant Coursework:** Advanced Data Structures, Object-Oriented Design, Algorithm Design & Analysis, Systems Programming, Cryptography, AI, Digital Systems, Teaching Computing, Software Engineering
@@ -19,16 +19,17 @@ _University of California, San Diego | Jacobs School of Engineering_
 ### Diamond Learning Center (Remote)  
 **One-on-One Tutor** | _March 2023 - Present_
 
-- Communicate complex concepts to students in an interactive environment.
-- Adapt teaching methods for different learning styles and individual needs.
-- Provide personalized attention to students' unique challenges and goals.
+- Effectively communicates complex concepts to students and creates interactive learning environments.
+- Adapted teaching methods to accommodate different learning styles and academic goals, fostering greater confidence and engagement.
+- Offer each student individualized attention, concentrating on their individual challenges and areas for improvement.
+- Cultivated long-term student relationships by building trust and tracking individual progress through consistent feedback and support.
 
 ### ACF Property Management (Studio City, CA)  
-**Temporary Accountant** | _November 2020 - August 2021_
+**Accounting Intern** | _November 2020 - August 2021_
 
-- Organized and analyzed financial transactions for multiple properties.
-- Assisted with processing company checks and invoices.
-- Cultivated positive relationships with colleagues to enhance productivity.
+- Processed and reconciled financial transactions across multiple property portfolios, maintaining accuracy and confidentiality.
+- Assisted with sorting company checks and invoices.
+- Developed positive relationships with colleagues to enhance team collaboration and productivity.
 
 ---
 
@@ -50,6 +51,30 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 
 ---
 
+## Skills & Interests
+
+**Technical Skills:**  
+- Languages: Python, Java, C++, C, Haskell, ARM Assembly, SystemVerilog, SQL
+- Tools & Technologies: Git, VS Code, Unix/Linux, GDB, Blender, Adobe Suite, Microsoft Office, Bash, Makefiles
+- Concepts & Frameworks:
+ - Programming- Object-Oriented Design, Functional Programming, Recursion, Memory Management
+ - Systems- Operating Systems, CPU Architecture, Virtual Memory, File Systems
+ - Theory- Discrete Math, Graph Theory, Algorithm Design, NP-Completeness
+ - AI & Data- Probabilistic Models, Markov Decision Processes, Database Design, SQL Queries
+ - Cybersecurity- Block/Public-Key Cryptography, Authentication
+ - Digital Logic- FSM Design, Boolean Algebra, Pipelining, State Machines, Assembly
+ - Education- Teaching Computational Thinking, K–12 CS Pedagogy, Equity in STEM
+ - Business, Product & Strategy- Product Lifecycle, Market Segmentation, Agile Project Management
+ - Data Science- Data Cleaning, Visualization (Matplotlib, Seaborn), Statistical Inference, Model Evaluation
+
+**Languages:**  
+- English (Native), Spanish (Proficient)
+
+**Interests:**  
+- Sports, Baseball Analytics, Social Media, Music, Marketing & Management, Teaching, Computing
+
+---
+
 ## Leadership Experience
 
 ### SPIS (CSE Summer Program for Incoming Students)  
@@ -64,16 +89,3 @@ Representation and manipulation of pictorial data. Two-dimensional and three-dim
 - Managed the design of layouts and editing of yearbook content.
 - Effectively captured live events and integrated visual elements seamlessly with textual content.
 
----
-
-## Skills & Interests
-
-**Technical Skills:**  
-- Programming Languages: Python, Java, C, C++, Haskell, ARM Assembly, System Verilog
-- Software: Microsoft Office (Word, Excel, PowerPoint), Adobe Creative Suite (Photoshop, Illustrator), Blender
-
-**Languages:**  
-- English (Native), Spanish (Proficient)
-
-**Interests:**  
-- Sports, Baseball Analytics, Social Media, Music, Marketing & Management, Teaching, Computing
